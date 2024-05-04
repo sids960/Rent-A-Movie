@@ -1,0 +1,5 @@
+Customer name: sid
+Movie name: testmovie
+Rate: Rs.20/day
+Days: 7
+Total cost: Rs.140
